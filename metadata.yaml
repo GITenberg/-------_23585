@@ -1,0 +1,28 @@
+_repo: '-------_23585'
+_version: 0.1.0
+alternative_title:
+- The sutra of forty-two chapters divulged by the Buddha
+- Fo shuo si shi er zhang jing
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buddha
+    gutenberg_agent_id: '25923'
+    url: http://www.gutenberg.org/2009/agents/25923
+description: ''
+gutenberg_bookshelf: Buddhism
+gutenberg_issued: '2007-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23585'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BQ'
+- !lcsh 'Buddhism -- Sacred books'
+title: 佛說四十二章經
+url: http://www.gutenberg.org/ebooks/23585
